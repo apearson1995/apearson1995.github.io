@@ -1,3 +1,4 @@
+ecnoding: UTF-8
 ### Remarks
 
 Just run it with no argument:
